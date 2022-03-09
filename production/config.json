@@ -1,6 +1,8 @@
 {
   "project": "prod",
-  "backend": "1.0.0",
-  "elden": "1.2.0",
-  "smeg": "1.3.0"
+  "versions": {
+    "backend": "1.0.0",
+    "elden": "1.2.0",
+    "smeg": "1.3.0"
+  }
 }
