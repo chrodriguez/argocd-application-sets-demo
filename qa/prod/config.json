@@ -1,5 +1,4 @@
 {
-  "project": "prod",
   "versions": {
     "backend": "1.0.0",
     "elden": "1.2.0",
